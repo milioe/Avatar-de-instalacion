@@ -1,0 +1,6 @@
+id,category,name,tagline,description,product_image_file
+1,instalacion,Diagrama de instalaci—n,Conexi—n Completa,"Este diagrama muestra d—nde conectar el cable HDMI, el cable mini AV (RCA), el cable ethernet, el puerto USB y el de toma de corriente al dispositivo Xview plus.",cables_instalacion.png
+2,control,Imagen de control remoto,Control en tus manos,"Esta imagen muestra los usos que tiene el control remoto bluetooth de xview, con lo botones de encendido/apagado de TV, encendido/apagado de caja, pausa, retrocede, grabar, navegaci—n en la gu’a, control de voz, regresar, acceder a la biblioteca de contenido, volumen, acceder a amazon prime, acceder a netflix, cambiar de canal, menœ principal, silenciar, mostrar programaci—n.",control_diagrama.png
+3,netflix,Ingresar un correo en netflix,Crear cuenta de netflix,Esta imagen presenta el primer paso para dejar tu correo y crear una cuenta en netflix. Es la pantalla de inicio.,incio_sesion_netflix_paso1.png
+4,netflix,Ingresar una contrase–a nueva netflix,Configurar cuenta,Esta imagen presenta el ingreso de la contrase–a de la cuenta de netflix.,incio_sesion_netflix_paso2.png
+5,netflix,Verificaci—n de la cuenta,Verificaci—n de la cuenta,Esta imagen muestra el registro exitoso que indica que se debe de verificar el mail ingresado.,incio_sesion_netflix_paso3.png
