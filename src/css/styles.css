@@ -120,7 +120,7 @@ h3,
 h4,
 h5,
 h6 {
-    color: white;
+    color: rgb(0, 0, 0);
 }
 
 button {
@@ -521,7 +521,7 @@ input:checked+.slider:before {
 }
 
 .header {
-    color: #FFF;
+    color: #000000;
     display: flex;
     padding: 20px;
 }
