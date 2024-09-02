@@ -317,7 +317,7 @@ window.startSession = () => {
 }
 
 async function greeting() {
-  addToConversationHistory("Hola, mi nombre es Luisa, ¿Cómo puedo ayudarte?", "light")
+  addToConversationHistory("Hola, mi nombre es Luisa, ¿Cómo puedo ayudarte el día de hoy?", "light")
 
   // let spokenText = "<speak version='1.0' xmlns='http://www.w3.org/2001/10/synthesis' xmlns:mstts='https://www.w3.org/2001/mstts' xml:lang='en-US'><voice xml:lang='en-US' xml:gender='Female' name='en-US-JennyNeural'>Hello, my name is Lisa. How can I help you?</voice></speak>"
   let spokenText = "<speak version='1.0' xmlns='http://www.w3.org/2001/10/synthesis' xmlns:mstts='https://www.w3.org/2001/mstts' xml:lang='en-US'><voice name='Microsoft Server Speech Text to Speech Voice (en-US, JennyMultilingualNeural)'><lang xml:lang='es-MX'>Hola, mi nombre es Luisa ¿Cómo puedo ayudarte el día de hoy?.</lang></voice></speak>";
