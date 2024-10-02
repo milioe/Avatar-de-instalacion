@@ -130,7 +130,8 @@ def display_product_info(product_info, display_size=40):
     # Show image
     image_file = product_info['product_image_file']
 
-    image_url = blob_sas_url.split("?")[0] + f"/{image_file}?" + blob_sas_url.split("?")[1]
+    # image_url = blob_sas_url.split("?")[0] + f"/{image_file}?" + blob_sas_url.split("?")[1]
+    image_url = blob_sas_url + f"/{image_file}"
 
     response = requests.get(image_url)
     print(image_url)
